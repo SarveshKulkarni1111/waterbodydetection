@@ -1,0 +1,9 @@
+Flask==3.0.3
+keras_cv==0.8.2
+matplotlib==3.8.4
+numpy==1.26.4
+opencv_python==4.9.0.80
+Pillow==10.3.0
+Requests==2.31.0
+tensorflow==2.16.1
+tensorflow_intel==2.16.1
